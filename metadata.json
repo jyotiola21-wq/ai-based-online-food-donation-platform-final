@@ -1,0 +1,6 @@
+{
+  "name": "AI-Based Online Food Donation Platform",
+  "description": "Connecting food donors with NGOs and volunteers to reduce food waste and feed those in need.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
